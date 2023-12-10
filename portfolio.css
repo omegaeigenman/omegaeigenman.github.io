@@ -327,3 +327,11 @@ form .send-btn:hover {
     box-shadow: 0 0 20px var(--main-color);
     cursor: pointer;
 }
+.footerBottom{
+    background-color: #000;
+    padding: 20px;
+    text-align: center;
+}
+.footerBottom p{
+    color: whitesss;
+}
